@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="https://lanyard.cnrad.dev/api/1011901192068157530?theme=Dark&animated=true&borderRadius=20px" alt=":Github Status" /></p>
+<p align="center"><img src="https://lanyard.cnrad.dev/api/1033015167824449586?theme=Dark&animated=true&borderRadius=20px" alt=":Github Status" /></p>
 
 
 <p align="center"><img src="https://skillicons.dev/icons?i=discord,vscode,github,git,powershell" alt=":Tools" /></p>
